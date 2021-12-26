@@ -1,0 +1,2 @@
+(this.webpackJsonpSadikshya=this.webpackJsonpSadikshya||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);t(1);var r=t(4),c=t.n(r),s=(t(3),t(0));var a=function(){return Object(s.jsx)("p",{children:"Hello! from Sadikshya"})};var i=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)(a,{})})};var j=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)(i,{})})};c.a.render(Object(s.jsx)(j,{}),document.getElementById("root"))},3:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.d383f9bb.chunk.js.map
